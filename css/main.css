@@ -1,0 +1,41 @@
+.logo-nav{
+	width: 80px;
+}
+
+.header-logo{
+	width: 550px;
+}
+
+.intro-top{
+	  text-transform: uppercase;
+	  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	  font-weight: 700;
+}
+
+.tag-line{
+
+  font-weight: lighter;
+  text-transform: none;
+  margin-bottom: 75px;
+  font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.section-heading-cuz{
+	padding-bottom: 20px;
+}
+
+.video-cuz{
+	width: 750px;
+}
+
+
+.tag-div{
+	padding-bottom: 25px;
+}
+
+.footer-bg{
+	background: #F7F7F7;
+}
